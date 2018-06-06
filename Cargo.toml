@@ -1,0 +1,7 @@
+[package]
+name = "j4"
+version = "0.1.0"
+authors = ["Bekhzod Tillakhanov <bekhzod.tillakhanov@gmail.com>"]
+
+[dependencies]
+nickel = "*"
